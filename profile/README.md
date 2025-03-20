@@ -8,3 +8,5 @@ Bem-vindo à **Rockers Lab**! Somos uma startup focada em transformar ideias ino
 - 📧 Email: [contato@rockerslab.com.br](mailto:contato@rockerslab.com.br)
 
 Vamos transformar sua ideia em realidade? Entre em contato e descubra como podemos ajudar! 🚀
+
+Fundada em 2025
